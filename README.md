@@ -35,3 +35,9 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+---
+<div align="center">
+  <img src="https://media.giphy.com/media/26gskf95cHOTlQOL6/giphy-downsized-large.gif" />
+</div>
+
+- I'm an astronomer :telescope:
