@@ -40,4 +40,6 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/26gskf95cHOTlQOL6/giphy-downsized-large.gif" />
 </div>
 
-- I'm an astronomer :telescope:
+- Full time coder 💻  part time scientist 👩‍🔬
+- Data Analyst / Scientist 🧑‍💼
+- Astronomer :telescope:
